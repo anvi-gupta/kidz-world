@@ -129,6 +129,9 @@ h3,h2{
 .image{
     margin-top: 15px;
 }
+#cart>p:hover{
+    color: gray;
+}
 @media only screen and (max-width:600px){
     header{
         height: 200px;
